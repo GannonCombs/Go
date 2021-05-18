@@ -1,3 +1,3 @@
 # Go
 
-Collection of disparate Go giles, for purposes of training.
+Collection of disparate Go files, for purposes of training.
